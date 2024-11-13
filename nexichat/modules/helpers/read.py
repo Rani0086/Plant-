@@ -18,11 +18,12 @@ START = """**
 
 ╔
 ║ ➻ ᴍʏ channel ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Planetsadala)  
-║ ➻ co owner➪ [plant ✯ goku](https://t.me/Planetsadala)                       
+║ ➻ co owner➪ [son ✯ goku](https://t.me/xeno_kakarot) 
+║ ➻ The owner➪ [cute ✯ pai](https://t.me/Queen143np)
 **"""
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/THE_VIP_BOY).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/Planetsadala).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
@@ -43,6 +44,12 @@ TOOLS_DATA_READ = f"""**
 ➻ /shayri ɢᴇᴛ ʀᴀɴᴅᴏᴍ sʜᴀʏʀɪ ғᴏʀ ʏᴏᴜʀ ʟᴏᴠᴇ
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
+──────────────
+➻ /raid TO GET THE ABUSED FOR ANOTHER 
+──────────────
+➻ /flirt TO INTERSTED YOUR GIRLFRIEND FOR SHAYRI
+──────────────
+➻ /spam GET SPAM ON GROUP 
 ──────────────
 ๏  💞**
 """
