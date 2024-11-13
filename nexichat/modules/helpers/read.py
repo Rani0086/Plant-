@@ -16,10 +16,11 @@ START = """**
 ๏ ᴛᴏᴛᴀʟ ᴄʜᴀᴛꜱ : {}
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
-╔
+╔════════════════════════╗
 ║ ➻ ᴍʏ channel ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/Planetsadala)  
 ║ ➻ co owner➪ [son ✯ goku](https://t.me/xeno_kakarot) 
 ║ ➻ The owner➪ [cute ✯ pai](https://t.me/Queen143np)
+╚════════════════════════╝
 **"""
 
 HELP_READ = f"""**
