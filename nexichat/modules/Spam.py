@@ -16,7 +16,6 @@ async def gifspam(e, smex):
 import asyncio
 import random
 import os
-from pyrogram import events, Button
 from config import OWNER_ID
 from pyrogram.tl.functions.messages import GetStickerSetRequest
 from pyrogram.tl.types import InputStickerSetID, InputStickerSetShortName
