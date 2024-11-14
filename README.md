@@ -31,8 +31,12 @@
 </h3>
 
 
+━━━━━━━━━━━━━━━━━━━━━━━
+
 ### Contact:
-[son 🙂 goku](https://t.me/xeno_kakarot),
-
-
-[rani](https://t.me/Queen143np)
+<a href="https://t.me/Xeno_Kakarot">
+    <img title="SON GOKU" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB">
+</a>
+<a href="https://t.me/Queen143np">
+    <img title="CUTE🥰RANI" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=telegram&logoColor=white">
+</a>
