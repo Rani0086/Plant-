@@ -28,7 +28,7 @@ FLIRT = [
 FLIRT_COMMAND = ["flirt", "hflirt", "eflirt"]
 
 
-@app.on_message(filters.command(FLIRT_COMMAND) & filters.group)
+@Client.on_message(filters.command(FLIRT_COMMAND) & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_text(
         text=random.choice(FLIRT),
@@ -47,7 +47,7 @@ async def help(client: Client, message: Message):
     )
 
 
-@app.on_message(filters.command(FLIRT_COMMAND) & filters.private)
+@Client.on_message(filters.command(FLIRT_COMMAND) & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_text(
         text=random.choice(FLIRT),
