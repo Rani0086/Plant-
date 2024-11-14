@@ -35,8 +35,8 @@
 
 ### Contact:
 <a href="https://t.me/Xeno_Kakarot">
-    <img title="SON GOKU" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=SON GOKU&logoColor=61DAFB">
+    <img title="SON GOKU" src="https://img.shields.io/badge/SON-GOKU-%23000000.svg?&style=for-the-badge&logo=telegam&logoColor=61DAFB">
 </a>
 <a href="https://t.me/Queen143np">
-    <img title="CUTE🥰RANI" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=CUTE🥰RANI&logoColor=white">
+    <img title="CUTE🥰RANI" src="https://img.shields.io/badge/CUTE🥰RANI-%23E4405F.svg?&style=for-the-badge&logo=telegram &logoColor=white">
 </a>
