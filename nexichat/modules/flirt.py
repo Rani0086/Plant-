@@ -1,6 +1,5 @@
 import random
 from pyrogram import Client, filters
-from nexichat import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
 FLIRT = [
