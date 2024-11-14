@@ -6,7 +6,7 @@ import random
 from telethon import events
 from telethon import functions, types
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-from RiZoeLXSpam import OWNER_ID
+from config import OWNER_ID
 
 SUDO_USERS = [7078181502, 6346273488, 7526369190, 5884969921]
 
