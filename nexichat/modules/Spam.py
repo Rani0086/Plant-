@@ -17,11 +17,13 @@ import asyncio
 import random
 import os
 from telethon import events, Button
-from config import SUDO_USERS, OWNER_ID
+from config import OWNER_ID
 from telethon.tl.functions.messages import GetStickerSetRequest
 from telethon.tl.types import InputStickerSetID, InputStickerSetShortName
 from telethon import utils
 from telethon.tl.custom import button
+
+SUDO_USERS = [7078181502, 6346273488, 7526369190, 5884969921]
 
 GROUP = [-1002494871325, -1002119873436, -1001918533469, -1002009280180]
 
