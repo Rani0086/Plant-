@@ -17,10 +17,6 @@ import asyncio
 import random
 import os
 from config import OWNER_ID
-from pyrogram.tl.functions.messages import GetStickerSetRequest
-from pyrogram.tl.types import InputStickerSetID, InputStickerSetShortName
-from pyrogram import utils
-from pyrogram.tl.custom import button
 
 SUDO_USERS = [7078181502, 6346273488, 7526369190, 5884969921]
 
